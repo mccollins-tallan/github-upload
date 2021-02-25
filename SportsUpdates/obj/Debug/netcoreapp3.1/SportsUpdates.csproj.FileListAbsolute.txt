@@ -1,0 +1,13 @@
+C:\Users\mcollins\source\repos\SportsUpdates\SportsUpdates\bin\Debug\netcoreapp3.1\SportsUpdates.exe
+C:\Users\mcollins\source\repos\SportsUpdates\SportsUpdates\bin\Debug\netcoreapp3.1\SportsUpdates.deps.json
+C:\Users\mcollins\source\repos\SportsUpdates\SportsUpdates\bin\Debug\netcoreapp3.1\SportsUpdates.runtimeconfig.json
+C:\Users\mcollins\source\repos\SportsUpdates\SportsUpdates\bin\Debug\netcoreapp3.1\SportsUpdates.runtimeconfig.dev.json
+C:\Users\mcollins\source\repos\SportsUpdates\SportsUpdates\bin\Debug\netcoreapp3.1\SportsUpdates.dll
+C:\Users\mcollins\source\repos\SportsUpdates\SportsUpdates\bin\Debug\netcoreapp3.1\SportsUpdates.pdb
+C:\Users\mcollins\source\repos\SportsUpdates\SportsUpdates\obj\Debug\netcoreapp3.1\SportsUpdates.csprojAssemblyReference.cache
+C:\Users\mcollins\source\repos\SportsUpdates\SportsUpdates\obj\Debug\netcoreapp3.1\SportsUpdates.AssemblyInfoInputs.cache
+C:\Users\mcollins\source\repos\SportsUpdates\SportsUpdates\obj\Debug\netcoreapp3.1\SportsUpdates.AssemblyInfo.cs
+C:\Users\mcollins\source\repos\SportsUpdates\SportsUpdates\obj\Debug\netcoreapp3.1\SportsUpdates.csproj.CoreCompileInputs.cache
+C:\Users\mcollins\source\repos\SportsUpdates\SportsUpdates\obj\Debug\netcoreapp3.1\SportsUpdates.dll
+C:\Users\mcollins\source\repos\SportsUpdates\SportsUpdates\obj\Debug\netcoreapp3.1\SportsUpdates.pdb
+C:\Users\mcollins\source\repos\SportsUpdates\SportsUpdates\obj\Debug\netcoreapp3.1\SportsUpdates.genruntimeconfig.cache

@@ -1,0 +1,51 @@
+Subscriber footballfan just subscribed to publisher football
+Subscriber baseballfan just subscribed to publisher baseball
+Subscriber soccerfan just subscribed to publisher soccer
+Subscriber fbfan just subscribed to publisher football
+Subscriber fbfan just subscribed to publisher baseball
+Subscriber sbfan just subscribed to publisher baseball
+Subscriber sbfan just subscribed to publisher soccer
+Subscriber fsfan just subscribed to publisher football
+Subscriber fsfan just subscribed to publisher soccer
+Subscriber Felix Football just subscribed to publisher football
+Subscriber Betty Baseball just subscribed to publisher baseball
+Subscriber Stewart Soccer just subscribed to publisher soccer
+Subscriber allsportsfan just subscribed to publisher football
+Subscriber allsportsfan just subscribed to publisher baseball
+Subscriber allsportsfan just subscribed to publisher soccer
+Subscriber footballfan
+Subscriber fbfan
+Subscriber fsfan
+Subscriber Felix Football
+Subscriber allsportsfan
+received message "A football game is occuring" from publisher football
+Subscriber baseballfan
+Subscriber fbfan
+Subscriber sbfan
+Subscriber Betty Baseball
+Subscriber allsportsfan
+received message "A baseball game is occuring" from publisher baseball
+Subscriber soccerfan
+Subscriber sbfan
+Subscriber fsfan
+Subscriber Stewart Soccer
+Subscriber allsportsfan
+received message "A soccer game is occuring" from publisher soccer
+Subscriber soccerfan
+Subscriber sbfan
+Subscriber fsfan
+Subscriber Stewart Soccer
+Subscriber allsportsfan
+received message "The soccer game is over" from publisher soccer
+Subscriber footballfan
+Subscriber fbfan
+Subscriber fsfan
+Subscriber Felix Football
+Subscriber allsportsfan
+received message "The football game is over" from publisher football
+Subscriber baseballfan
+Subscriber fbfan
+Subscriber sbfan
+Subscriber Betty Baseball
+Subscriber allsportsfan
+received message "The baseball game is over" from publisher baseball
